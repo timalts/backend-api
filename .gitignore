@@ -1,0 +1,7 @@
+*.suo
+*vs
+*appsettings.JSON
+*obj/*
+*bin/*
+/bin/*
+/obj/*
